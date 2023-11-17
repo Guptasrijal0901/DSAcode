@@ -1,1 +1,1 @@
-#include <iostream>
+ cout << a << " " << endl ;
